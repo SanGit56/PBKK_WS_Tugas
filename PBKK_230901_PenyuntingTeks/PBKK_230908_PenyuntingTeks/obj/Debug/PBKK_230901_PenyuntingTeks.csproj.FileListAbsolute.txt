@@ -1,0 +1,10 @@
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\bin\Debug\PBKK_230908_PenyuntingTeks.exe.config
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\bin\Debug\PBKK_230908_PenyuntingTeks.exe
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\bin\Debug\PBKK_230908_PenyuntingTeks.pdb
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230901_PenyuntingTeks.csproj.AssemblyReference.cache
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230908_PenyuntingTeks.Form1.resources
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230908_PenyuntingTeks.Properties.Resources.resources
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230901_PenyuntingTeks.csproj.GenerateResource.cache
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230901_PenyuntingTeks.csproj.CoreCompileInputs.cache
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230908_PenyuntingTeks.exe
+C:\Users\RMH\Documents\Kuliah\PBKK\Tugas\PBKK_230908_PenyuntingTeks\PBKK_230908_PenyuntingTeks\obj\Debug\PBKK_230908_PenyuntingTeks.pdb

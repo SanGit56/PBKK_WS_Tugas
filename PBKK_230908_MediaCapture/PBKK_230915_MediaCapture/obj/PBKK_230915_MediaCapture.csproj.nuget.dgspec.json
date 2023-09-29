@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RMH\\Documents\\Kuliah\\PBKK\\Tugas\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RMH\\Documents\\Kuliah\\PBKK\\Tugas\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RMH\\Documents\\Kuliah\\PBKK\\Tugas\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture.csproj",
+        "projectName": "PBKK_230915_MediaCapture",
+        "projectPath": "C:\\Users\\RMH\\Documents\\Kuliah\\PBKK\\Tugas\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture.csproj",
+        "packagesPath": "C:\\Users\\RMH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RMH\\Documents\\Kuliah\\PBKK\\Tugas\\PBKK_230915_MediaCapture\\PBKK_230915_MediaCapture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RMH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
