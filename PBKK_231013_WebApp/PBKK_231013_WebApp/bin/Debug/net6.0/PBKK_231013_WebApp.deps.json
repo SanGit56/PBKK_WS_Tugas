@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PBKK_231013_WebApp/1.0.0": {
+        "runtime": {
+          "PBKK_231013_WebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBKK_231013_WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

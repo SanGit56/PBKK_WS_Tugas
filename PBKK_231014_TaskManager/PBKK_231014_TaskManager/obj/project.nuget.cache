@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eeHykGHp9fTapCQV77oo78ONS9fArsyECh7KQ0vA1+uRXPyRuioT7jsz23YT2+eOgtiRD6xqDK4diGnefPmnzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RMH\\Documents\\Kuliah\\PBKK\\Tugas\\PBKK_231014_TaskManager\\PBKK_231014_TaskManager\\PBKK_231014_TaskManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RMH\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\RMH\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\RMH\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
