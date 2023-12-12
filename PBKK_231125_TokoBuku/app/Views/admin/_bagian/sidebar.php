@@ -9,7 +9,7 @@
                 <div class="sb-sidenav-menu-heading">Dashboard</div>
                 <a class="nav-link <?= service('request')->uri->getSegment(2) == 'dashboard' ? 'active': '' ?>" href="index.html">
                     <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
-                    Produk
+                    Buku
                 </a>
                 <a class="nav-link <?= service('request')->uri->getSegment(2) == 'dashboard' ? 'active': '' ?>" href="index.html">
                     <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
